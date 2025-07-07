@@ -70,4 +70,7 @@ Build a classification model to predict whether a loan application will be appro
 | `README.md`                  | Project overview and results       |
 | `loan_prediction_model.ipynb`| Jupyter notebook with full code    |
       
+## ✅ Project Status
 
+Completed on: **07 July 2025**  
+Status: **Completed (Beginner ML Project)**  
